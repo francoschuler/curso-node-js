@@ -1,26 +1,21 @@
 {
   "name": "curso-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "Curso de introduccion a NodeJs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/francoschuler/curso-node-js.git"
-  },
   "keywords": [
     "curso",
     "node",
-    "js"
+    "nodejs"
   ],
-  "author": "Franco Schüler",
+  "author": "Franco Schúler",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/francoschuler/curso-node-js/issues"
+  "dependencies": {
+    "picocolors": "1.0.0"
   },
-  "homepage": "https://github.com/francoschuler/curso-node-js#readme",
   "devDependencies": {
     "standard": "^17.1.0"
   },
